@@ -4,8 +4,7 @@
 |------|----------|------|---------------|-------|
 |Accton|AS7512-32X|Cavium|XPliantCNX880**|32x100G|
 
-onie installer onie-recovery-x86_64-accton_as7512_32x-r0.iso
-
+onie installer onie-recovery-x86_64-accton_as7512_32x-r0.iso  
 onie-updater-x86_64-accton_as7512_32x-r0
 
 SONiC installer

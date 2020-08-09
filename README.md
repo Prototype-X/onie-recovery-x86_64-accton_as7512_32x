@@ -12,7 +12,7 @@ https://github.com/Azure/SONiC/wiki/Supported-Devices-and-Platforms
 
 Why not Open Switch: https://github.com/open-switch/opx-onie-installer/issues/57
 
-Pica8, Open Network Linux, Cumulus dont support switch hradware
+Pica8, Open Network Linux, Cumulus dont support switch hardware
 
 https://opennetlinux.org/hcl.html  
 https://cumulusnetworks.com/products/hardware-compatibility-list/  
